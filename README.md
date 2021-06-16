@@ -1,15 +1,4 @@
-#EXTINF:-1 tvg-id="797" tvg-name="RBD Radio Multimedia" tvg-logo="https://www.m3u.cl/logo/797_RBD_Radio_Multimedia.png", RBD Radio Multimedia * | AR
-https://59537faa0729a.streamlock.net:443/rbdvideo/rbdvideo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV * | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 * | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png", Rewind TV * | CL
-https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music * | CL
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="254" tvg-name="Canal 2 Mar del Plata" tvg-logo="https://www.m3u.cl/logo/254_Canal_2_Mar_del_Plata.png", Canal 2 Mar del Plata  | AR
-https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="778" tvg-name="Canal 5 Pico Truncado" tvg-logo="https://www.m3u.cl/logo/778_Canal_5_Pico_Truncado.jpg", Canal 5 Pico Truncado  | AR
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="232" tvg-name="Canal 50 Morteros" tvg-logo="https://www.m3u.cl/logo/232_Canal_50_Morteros.png", Canal 50 Morteros  | AR
