@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-id="233" tvg-name="Ahí les Va" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjXxhUeDZDHQjePKu4xoHoSPPqgno7KxUNPpeyqXQ=s88-c-k-c0x00ffffff-no-rj", Ahí les Va  | AR
-https://www.youtube.com/embed/videoseries?list=UUew_WONZCxLqNdTpZ6gXUeA&index
+
 #EXTINF:-1 tvg-id="233" tvg-name="CANAL 5TV" tvg-logo="https://www.m3u.cl/logo/233_CANAL_5TV.jpg", CANAL 5TV  | AR
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://www.m3u.cl/logo/94_TV_HD_Tropical.png", TV HD Tropical  | BO
